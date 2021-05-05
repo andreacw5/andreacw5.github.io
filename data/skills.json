@@ -1,0 +1,44 @@
+{
+  "skills": [
+    {
+      "icon": "mdi-vuejs",
+      "title": "Vue.js"
+    },
+    {
+      "icon": "mdi-nuxt",
+      "title": "Nuxt.js"
+    },
+    {
+      "icon": "mdi-language-javascript",
+      "title": "Javascript"
+    },
+    {
+      "icon": "mdi-nodejs",
+      "title": "Node.js"
+    },
+    {
+      "icon": "mdi-language-java",
+      "title": "Java"
+    },
+    {
+      "icon": "mdi-language-html5",
+      "title": "HTML5"
+    },
+    {
+      "icon": "mdi-language-css3",
+      "title": "CSS3"
+    },
+    {
+      "icon": "mdi-docker",
+      "title": "Docker"
+    },
+    {
+      "icon": "mdi-git",
+      "title": "Git"
+    },
+    {
+      "icon": "mdi-npm",
+      "title": "Npm packages"
+    }
+  ]
+}

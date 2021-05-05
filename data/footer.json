@@ -1,0 +1,28 @@
+{
+  "links": [
+    {
+      "href": "https://www.facebook.com/andreacw5",
+      "label": "Facebook",
+      "color": "#3b76e3",
+      "icon": "mdi-facebook"
+    },
+    {
+      "href": "https://www.instagram.com/andreacw96",
+      "label": "Instagram",
+      "color": "#c91bf1",
+      "icon": "mdi-instagram"
+    },
+    {
+      "href": "https://www.linkedin.com/in/andrea-tombolato-57147986",
+      "color": "#0a66c2",
+      "label": "LinkedIn",
+      "icon": "mdi-linkedin"
+    },
+    {
+      "href": "https://github.com/andreacw5",
+      "label": "GitHub",
+      "color": "#f5f5f5",
+      "icon": "mdi-github"
+    }
+  ]
+}
