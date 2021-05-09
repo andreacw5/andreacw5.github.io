@@ -2,43 +2,58 @@
   "skills": [
     {
       "icon": "mdi-vuejs",
-      "title": "Vue.js"
+      "title": "Vue.js",
+      "color": "#41b883"
     },
     {
       "icon": "mdi-nuxt",
-      "title": "Nuxt.js"
+      "title": "Nuxt.js",
+      "color": "#58b2bb"
     },
     {
       "icon": "mdi-language-javascript",
-      "title": "Javascript"
+      "title": "Javascript",
+      "color": "#f0db4f"
     },
     {
       "icon": "mdi-nodejs",
-      "title": "Node.js"
+      "title": "Node.js",
+      "color": "#68a063"
     },
     {
       "icon": "mdi-language-java",
-      "title": "Java"
+      "title": "Java",
+      "color": "#5382a1"
     },
     {
       "icon": "mdi-language-html5",
-      "title": "HTML5"
+      "title": "HTML5",
+      "color": "#f06529"
     },
     {
       "icon": "mdi-language-css3",
-      "title": "CSS3"
+      "title": "CSS3",
+      "color": "#2965f1"
     },
     {
       "icon": "mdi-docker",
-      "title": "Docker"
+      "title": "Docker",
+      "color": "#0db7ed"
+    },
+    {
+      "icon": "mdi-wordpress",
+      "title": "Wordpress",
+      "color": "#21759b"
     },
     {
       "icon": "mdi-git",
-      "title": "Git"
+      "title": "Git",
+      "color": "#f34f29"
     },
     {
       "icon": "mdi-npm",
-      "title": "Npm packages"
+      "title": "Npm packages",
+      "color": "#cc3534"
     }
   ]
 }

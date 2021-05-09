@@ -1,13 +1,15 @@
 {
   "one": [
     {
-      "title": "Email",
-      "subtitle": "---",
-      "icon": "mdi-at"
+      "title": "Steam",
+      "subtitle": "/id/andreacw",
+      "href": "https://steamcommunity.com/id/andreacw",
+      "color": "#636a70",
+      "icon": "mdi-steam"
     },
     {
       "title": "Facebook",
-      "subtitle": "/andreacw5",
+      "subtitle": "andreacw5",
       "href": "https://www.facebook.com/andreacw5",
       "color": "#3b76e3",
       "icon": "mdi-facebook"
@@ -32,16 +34,15 @@
   "three": [
     {
       "title": "LinkedIn",
-      "href": "https://www.linkedin.com/in/andrea-tombolato-57147986",
-      "subtitle": "/in/andrea-tombolato-57147986",
+      "href": "https://www.linkedin.com/in/atombolato",
+      "subtitle": "/in/atombolato",
       "color": "#0a66c2",
       "icon": "mdi-linkedin"
     },
     {
       "title": "Github",
       "href": "https://github.com/andreacw5",
-      "subtitle": "#andreacw5",
-      "color": "#f5f5f5",
+      "subtitle": "andreacw5",
       "icon": "mdi-github"
     }
   ]
