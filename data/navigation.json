@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "sections.home",
+      "icon": "mdi-home",
+      "url": "/"
+    },
+    {
+      "name": "sections.contact.title",
+      "icon": "mdi-account",
+      "url": "/contacts"
+    }
+  ]
+}

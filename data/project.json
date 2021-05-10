@@ -1,28 +1,34 @@
 {
   "projects": [
     {
-      "title": "Soon",
-      "img": ""
+      "title": "ALIR Website",
+      "description": "Sito internet della comunità di Altis Life Italia Reloaded",
+      "src": "~/assets/img/works/alirdb/home.webp"
     },
     {
-      "title": "Soon",
-      "img": ""
+      "title": "ALIRDB",
+      "description": "Visualizzatore online di dati del Videogame Arma 3, per permettere agli utenti l'accesso alle proprie statistiche di gioco",
+      "src": ""
     },
     {
-      "title": "Soon",
-      "img": ""
+      "title": "Gym Track App",
+      "description": "Applicazione per un personal trainer per la gestione della clientela",
+      "src": ""
     },
     {
-      "title": "Soon",
-      "img": ""
+      "title": "PROCIV Website",
+      "description": "Sito internet della protezione civile del comune di Settimo Milanese",
+      "src": ""
     },
     {
-      "title": "Soon",
-      "img": ""
+      "title": "Element Network App",
+      "description": "Un sito di monitoraggio dei vari team del Network Element, mostra gli utenti in streaming e ne permette la gestione",
+      "src": ""
     },
     {
-      "title": "Soon",
-      "img": ""
+      "title": "Element Website",
+      "description": "Sito internet dell'associazione sportiva Element Gaming",
+      "src": ""
     }
   ]
 }

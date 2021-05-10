@@ -13,9 +13,7 @@
       "href": "https://www.facebook.com/andreacw5",
       "color": "#3b76e3",
       "icon": "mdi-facebook"
-    }
-  ],
-  "two": [
+    },
     {
       "title": "Instagram",
       "href": "https://www.instagram.com/andreacw96",
@@ -29,9 +27,7 @@
       "subtitle": "@andreacw5",
       "color": "#1DA1F2",
       "icon": "mdi-twitter"
-    }
-  ],
-  "three": [
+    },
     {
       "title": "LinkedIn",
       "href": "https://www.linkedin.com/in/atombolato",
@@ -43,6 +39,7 @@
       "title": "Github",
       "href": "https://github.com/andreacw5",
       "subtitle": "andreacw5",
+      "color": "#636a70",
       "icon": "mdi-github"
     }
   ]
