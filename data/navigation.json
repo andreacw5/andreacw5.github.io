@@ -6,6 +6,11 @@
       "url": "/"
     },
     {
+      "name": "sections.works",
+      "icon": "mdi-briefcase",
+      "url": "/#works"
+    },
+    {
       "name": "sections.contact.title",
       "icon": "mdi-account",
       "url": "/contacts"

@@ -46,6 +46,11 @@
       "color": "#21759b"
     },
     {
+      "icon": "mdi-firebase",
+      "title": "Google firebase",
+      "color": "#FFA611"
+    },
+    {
       "icon": "mdi-git",
       "title": "Git",
       "color": "#f34f29"
